@@ -1,9 +1,9 @@
 // Given an integer array nums, find three numbers whose product is maximum and return the maximum product.
 
-Constraints:
+// Constraints:
 
-3 <= nums.length <= 104
--1000 <= nums[i] <= 1000 //
+// 3 <= nums.length <= 104
+// -1000 <= nums[i] <= 1000 //
 
 import java.util.Arrays;
 
